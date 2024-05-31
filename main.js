@@ -28,7 +28,7 @@ function scrollActive(){
 window.addEventListener('scroll', scrollActive)
 
 const sr = ScrollReveal({
-    distance: '45px',
+    distance: '10px',
     duration: 2700,
     reset: true
 });

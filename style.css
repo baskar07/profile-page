@@ -535,7 +535,7 @@ section {
 @media screen and (min-width: 1024px) {
     .nav{
         height: 5rem;
-        padding: 2rem 3rem;
+        padding: 2rem 2rem;
     }
     section{
         padding: 100px 18%;
